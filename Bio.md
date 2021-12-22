@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Muz4mmil
+- 👋 Hi, I’m Muzammil
 - 👀 I’m interested in becoming a Software Engineer
 - 🌱 I’m currently learning Computer Science at Maharashtra Institute of Technology, Aurangabad, MH, India
 - 💞️ I’m looking to collaborate on ...
