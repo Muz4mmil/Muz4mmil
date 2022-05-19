@@ -1,8 +1,10 @@
 - 👋 Hi, I’m Muzammil (@Muz4mmil)
 - 👀 I’m interested in web designing, front-end stuff, and operating system UIs
 - 🌱 I’m currently persuing Bachelor's degree in Computer Science @MIT, A'bad
-- 📫 Find me on  
-                Instagram @muz4mmil.exe   Telegram @Muzammi1
+- 📫 Find me on: 
+                Email : muzammilsiddiqui826@gmail.com ,  
+                Instagram [@muz4mmil.exe](https://www.instagram.com/muz4mmil.exe/) ,
+                Telegram [@Muzammi1](https://t.me/Muzammi1)
 
 Have A good day👋
 
