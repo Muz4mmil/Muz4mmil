@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Muzammil (@Muz4mmil)
-- 👀 I’m interested in web designing, front-end stuff, and operating system UIs
+- 👀 I’m interested in web designing & front-end development
 - 🌱 I’m currently persuing Bachelor's degree in Computer Science @MIT, A'bad
 - 📫 Find me on: 
                 Email : muzammilsiddiqui826@gmail.com ,  
